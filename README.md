@@ -27,11 +27,12 @@ The code is written in a Jupyter Notebook (`train.ipynb`) and includes modular c
 - **Output**: Saves generated MIDI files every 50 epochs and for selected keys at the end.
 
 ## Requirements
-- Python 3.8+
-- PyTorch
-- NumPy
-- PrettyMIDI
-- A dataset of MIDI files (not included in this repository)
+- Python version: 3.10.9 (tags/v3.10.9:1dd9be6, Dec  6 2022, 20:01:21) [MSC v.1934 64 bit (AMD64)]
+- NumPy version: 1.26.4
+- PyTorch version: 2.2.2+cu118
+- pretty_midi version: 0.2.10
+- CUDA version: 11.8
+- GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
 
 ## Installation
 1. **Clone the repository**:
