@@ -145,25 +145,3 @@ Open a pull request.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-### Instructions for Use
-1. **Copy the Text**: Copy the entire block above.
-2. **Create README.md**:
-   - In your GitHub repository, create a file named `README.md`.
-   - Paste the copied text into `README.md`.
-3. **Update Placeholder**:
-   - Replace `your-username` in the `git clone` command with your actual GitHub username.
-4. **Optional Customizations**:
-   - If you have a specific dataset (e.g., MAESTRO, Lakh MIDI Dataset), add a link or description in the "Dataset" section.
-   - If you want to include sample MIDI outputs or a demo link, add a section like `## Sample Outputs` with links to files or a demo page.
-   - If you have a `LICENSE` file, ensure it exists in the repository root, or remove the link if you’re not including one.
-5. **Commit and Push**:
-   ```bash
-   git add README.md
-   git commit -m "Add README file"
-   git push origin main
-
-Notes
-The README assumes the repository name is gan-midi-generator. Update the clone URL if your repository has a different name
