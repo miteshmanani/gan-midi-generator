@@ -166,18 +166,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
    git push origin main
 
 Notes
-The README assumes the repository name is gan-midi-generator. Update the clone URL if your repository has a different name.
-
-The file structure section matches the code you provided. If your .ipynb file has a different name or if you add more files, update the File Structure section.
-
-If you want to add badges (e.g., for Python version or license), let me know, and I can include them.
-
-
-Let me know if you need further tweaks, such as adding badges, specific dataset instructions, or a different tone for the README!
-
-explain MIDI processing
-
-other GAN variants
-
-more concise instructions
-
+The README assumes the repository name is gan-midi-generator. Update the clone URL if your repository has a different name
