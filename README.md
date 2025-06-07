@@ -36,8 +36,8 @@ The code is written in a Jupyter Notebook (`train.ipynb`) and includes modular c
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/midi-wgan-gp.git
-   cd midi-wgan-gp
+   git clone https://github.com/your-username/gan-midi-generator.git
+   cd gan-midi-generator
 
 Create a virtual environment (optional but recommended):
 bash
@@ -59,7 +59,7 @@ Usage
 Open the Jupyter Notebook:
 bash
 
-jupyter notebook train.ipynb
+jupyter notebook MidiGAN.ipynb
 
 Configure the notebook:
 Ensure the data folder contains MIDI files.
